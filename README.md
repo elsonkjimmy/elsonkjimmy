@@ -4,7 +4,6 @@ Hi , I'm **Douanla Mafo Jimmy Trésor**, also known as **EL SONK JIMMY** or **Ji
 
 -  Entrepreneur Tech & Mode
 - ‍ React Native, Node.js, Supabase
--  Projects: [liens vers tes projets]
 
 Find me on:
 - LinkedIn: https://www.linkedin.com/in/jimmy-d-9638a1329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
