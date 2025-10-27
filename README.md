@@ -1,6 +1,6 @@
 # Douanla Mafo Jimmy Trésor — EL SONK JIMMY
 
-Hi , I'm **Douanla Mafo Jimmy Trésor**, also known as **EL SONK JIMMY** or **Jimmy Douanla**.
+Hi , I'm **Douanla Mafo Jimmy Trésor**, also known as **EL SONK JIMMY** or **Jimmy Mafo**.
 
 -  Entrepreneur Tech & Mode
 - ‍ React Native, Node.js, Supabase
