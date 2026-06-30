@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <a href="https://elsonkjimmy.github.io/elsonkjimmy/">Portfolio</a> .
+  <a href="http://lunava.me/elsonkjimmy/">Portfolio</a> .
   <a href="https://www.linkedin.com/in/jimmy-d-9638a1329">LinkedIn</a> .
   <a href="https://x.com/jimmy_sonk28624">X</a> .
   <a href="https://www.instagram.com/jimm.ytresor">Instagram</a>
