@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:2563EB,100:14B8A6&text=EL%20SONK%20JIMMY&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Fullstack%20%7C%20Mobile%20%7C%20AI%20Builder%20%7C%20Tech%20x%20Fashion&descAlignY=58&animation=fadeIn" alt="EL SONK JIMMY - Fullstack Mobile AI Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,45:2563EB,100:14B8A6&text=EL%20SONK%20JIMMY&fontColor=FFFFFF&fontSize=48&fontAlignY=35&desc=Fullstack%20%7C%20Mobile%20%7C%20AI%20Builder&descAlignY=55&animation=fadeIn" alt="EL SONK JIMMY" />
 </p>
 
 <p align="center">
@@ -9,157 +9,126 @@
   <a href="https://github.com/elsonkjimmy?tab=followers">
     <img src="https://img.shields.io/github/followers/elsonkjimmy?label=Followers&style=flat&color=14b8a6" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/elsonkjimmy?tab=repositories">
-    <img src="https://img.shields.io/badge/Public%20repos-54-0f172a?style=flat" alt="Public repositories" />
-  </a>
-  <a href="https://airwatch-cameroun.vercel.app">
-    <img src="https://img.shields.io/badge/Latest%20showcase-AirWatch%20Cameroun-ef4444?style=flat" alt="AirWatch Cameroun" />
-  </a>
-</p>
-
-<h2 align="center">I build useful products where software, AI, mobile experiences and style meet.</h2>
-
-<p align="center">
-  I am <strong>Douanla Mafo Jimmy Tresor</strong>, also known as <strong>EL SONK JIMMY</strong> or <strong>Jimmy Mafo</strong>.
-  I like turning ambitious ideas into shipped products: climate intelligence platforms, NFC mobile apps, fashion-tech experiences, community tools, and AI-assisted systems.
-</p>
-
-<p align="center">
-  <a href="https://lunava.me/elsonkjimmy/">Portfolio</a> .
-  <a href="https://www.linkedin.com/in/jimmy-d-9638a1329">LinkedIn</a> .
-  <a href="https://x.com/jimmy_sonk28624">X</a> .
-  <a href="https://www.instagram.com/jimm.ytresor">Instagram</a>
 </p>
 
 ---
 
-### What I Build
+## 👋 Hi, I'm Jimmy
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Product Engineering</h3>
-      <p>React, React Native, Flutter, Node.js, FastAPI and Supabase products with real user workflows, clean interfaces and deployable architecture.</p>
-    </td>
-    <td width="50%">
-      <h3>AI and Data Systems</h3>
-      <p>Prediction, dashboards, decision support and data-backed products, especially around climate, agriculture, education and local impact.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Mobile First Experiences</h3>
-      <p>Android and cross-platform apps: NFC P2P transfers, media experiences, fashion tools and offline-first flows.</p>
-    </td>
-    <td width="50%">
-      <h3>Community and Open Source</h3>
-      <p>Django Cameroon contributions, learning resources, workshops and tools built to help other builders move faster.</p>
-    </td>
-  </tr>
-</table>
+I'm a **Fullstack Developer & Mobile Builder** passionate about creating products where software, AI, and real-world impact meet. I turn ambitious ideas into shipped products: climate intelligence platforms, NFC mobile apps, fashion-tech experiences, and AI-assisted systems.
 
-### Featured Projects
+**Currently focused on:** Building scalable fullstack and mobile products with AI-assisted workflows.
 
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/elsonkjimmy/airwatch-cameroun">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=airwatch-cameroun&theme=tokyonight&hide_border=true" alt="AirWatch Cameroun repository card" />
-      </a>
-      <p><strong>AirWatch Cameroun</strong> - AI-powered air quality monitoring and prediction platform for 42 cities in Cameroon. React, FastAPI, Supabase, XGBoost, realtime alerts.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/elsonkjimmy/cepojt-nfc-p2p">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=cepojt-nfc-p2p&theme=tokyonight&hide_border=true" alt="CEPOJT NFC P2P repository card" />
-      </a>
-      <p><strong>CEPOJT NFC P2P</strong> - Flutter mobile app for local NFC token transfers without a central server. SQLite, NFC, offline transaction history.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/elsonkjimmy/Dress-Up">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=Dress-Up&theme=tokyonight&hide_border=true" alt="Dress-Up repository card" />
-      </a>
-      <p><strong>Dress-Up</strong> - Fashion-tech mobile experience connecting style, product thinking and React Native engineering.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/elsonkjimmy/evaltrack">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=evaltrack&theme=tokyonight&hide_border=true" alt="EvalTrack repository card" />
-      </a>
-      <p><strong>EvalTrack</strong> - Evaluation tracking concept with product documentation, UI assets and a frontend foundation.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/elsonkjimmy/PruneVision">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=PruneVision&theme=tokyonight&hide_border=true" alt="PruneVision repository card" />
-      </a>
-      <p><strong>PruneVision</strong> - Agriculture-focused vision project with a deployed web experience.</p>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/elsonkjimmy/weatherwise">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=weatherwise&theme=tokyonight&hide_border=true" alt="WeatherWise repository card" />
-      </a>
-      <p><strong>WeatherWise</strong> - Weather product prototype deployed on Vercel, built with TypeScript.</p>
-    </td>
-  </tr>
-</table>
+---
 
-### Tech Stack
+## 🎯 What I'm Looking For
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,django,fastapi,flutter,dart,java,c,html,css,tailwind,supabase,postgres,firebase,git,github,linux,vite" alt="Tech stack icons" />
-</p>
+- **Fullstack Developer** roles (React/Next.js + Python/FastAPI)
+- **Mobile Developer** positions (React Native or Flutter)  
+- **AI/ML Engineer** opportunities (Climate Tech, AgTech)
+- Open to **remote opportunities** worldwide
 
-### GitHub Graphs
+---
+
+## 🚀 Featured Projects
+
+### 🌍 [AirWatch Cameroun](https://github.com/elsonkjimmy/airwatch-cameroun)
+**AI-powered air quality monitoring platform for 42 cities in Cameroon**
+
+[![Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-2563eb?style=for-the-badge)](https://airwatch-cameroun.vercel.app)
+
+- **Tech Stack:** React, FastAPI, Supabase, XGBoost, Scikit-learn
+- **Features:** Real-time air quality monitoring, AI predictions, SMS alerts
+- **Impact:** Hackathon winner - IndabaX Cameroun 2026
+
+---
+
+### 📱 [CEPOJT NFC P2P](https://github.com/elsonkjimmy/cepojt-nfc-p2p)
+**Offline-first mobile app for NFC token transfers**
+
+- **Tech Stack:** Flutter, Dart, SQLite, NFC
+- **Features:** P2P transfers without central server, transaction history
+- **Innovation:** 100% local, offline-first architecture
+
+---
+
+### 👗 [Dress-Up](https://github.com/elsonkjimmy/Dress-Up)
+**Fashion-tech mobile experience**
+
+- **Tech Stack:** React Native, TypeScript
+- **Features:** Style recommendations, product catalog
+- **Focus:** Mobile-first UI/UX
+
+---
+
+### 🌱 [PruneVision](https://github.com/elsonkjimmy/PruneVision)
+**Agriculture-focused vision application**
+
+[![Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-2563eb?style=for-the-badge)](https://prune-vision.vercel.app)
+
+- **Tech Stack:** React, TypeScript, Vite
+- **Features:** Crop quality assessment, visual analysis
+- **Domain:** AgTech innovation
+
+---
+
+### 📊 [EvalTrack](https://github.com/elsonkjimmy/evaltrack)
+**Evaluation tracking system with product documentation**
+
+- **Tech Stack:** React, TypeScript, Vite
+- **Features:** Custom evaluation forms, progress tracking
+- **Use Case:** Education, HR, project management
+
+---
+
+### 🌤️ [WeatherWise](https://github.com/elsonkjimmy/weatherwise)
+**Weather product prototype**
+
+[![Demo](https://img.shields.io/badge/Live%20Demo-View%20Now-2563eb?style=for-the-badge)](https://weatherwise-w3oe.vercel.app)
+
+- **Tech Stack:** TypeScript, Vite
+- **Features:** Weather forecasts, location-based data
+- **Deployment:** Vercel
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=elsonkjimmy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=elsonkjimmy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsonkjimmy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsonkjimmy&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elsonkjimmy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elsonkjimmy&theme=tokyo-night&hide_border=true&area=true&custom_title=Jimmy's%20Contribution%20Graph" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elsonkjimmy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elsonkjimmy/elsonkjimmy/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elsonkjimmy/elsonkjimmy/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/elsonkjimmy/elsonkjimmy/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-### Current Focus
-
-- Building stronger fullstack and mobile products with AI-assisted workflows.
-- Turning my best repositories into polished case studies with demos, screenshots and clear READMEs.
-- Growing a profile that shows not only code, but taste, execution and product judgment.
-
-### Quick Links
-
-| Project | Type | Stack | Live |
-| --- | --- | --- | --- |
-| [AirWatch Cameroun](https://github.com/elsonkjimmy/airwatch-cameroun) | Climate intelligence platform | React, FastAPI, Supabase, AI | [Demo](https://airwatch-cameroun.vercel.app) |
-| [CEPOJT NFC P2P](https://github.com/elsonkjimmy/cepojt-nfc-p2p) | Mobile NFC transfer app | Flutter, Dart, SQLite, NFC | Repository |
-| [Dress-Up](https://github.com/elsonkjimmy/Dress-Up) | Fashion-tech mobile app | React Native, TypeScript | Repository |
-| [PruneVision](https://github.com/elsonkjimmy/PruneVision) | Agriculture vision app | React, TypeScript | [Demo](https://prune-vision.vercel.app) |
-| [Agriclim](https://github.com/elsonkjimmy/Agriclim-) | Climate and agriculture app | TypeScript | [Demo](https://agriclim.vercel.app) |
-| [WeatherWise](https://github.com/elsonkjimmy/weatherwise) | Weather product | TypeScript | [Demo](https://weatherwise-w3oe.vercel.app) |
 
 ---
 
-<p align="center">
-  <strong>Open to collaborations around mobile products, AI tools, climate tech, fashion tech and community-driven software.</strong>
-</p>
+## 📬 Let's Connect
 
 <p align="center">
   <a href="mailto:elsonkjimmy@gmail.com">
@@ -168,7 +137,28 @@
   <a href="https://www.linkedin.com/in/jimmy-d-9638a1329">
     <img src="https://img.shields.io/badge/LinkedIn-Jimmy%20Mafo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://lunava.me/elsonkjimmy/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Now-2563eb?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://github.com/elsonkjimmy">
     <img src="https://img.shields.io/badge/GitHub-elsonkjimmy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+---
+
+## 💬 Open to Collaborations
+
+I'm actively looking for opportunities in:
+- 🌍 **Climate Tech** - Environmental monitoring and prediction
+- 📱 **Mobile Development** - React Native & Flutter projects
+- 🤖 **AI/ML Engineering** - Applied machine learning solutions
+- 👗 **Fashion Tech** - Technology meets style and creativity
+
+**Feel free to reach out if you have interesting projects or opportunities!**
+
+---
+
+<p align="center">
+  <em>Built with ❤️ and lots of ☕</em>
 </p>
