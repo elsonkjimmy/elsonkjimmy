@@ -1,195 +1,287 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient(custom):1A1A2E,16213E,0F3460,533483,E94560&text=EL%20SONK%20JIMMY&fontColor=FFFFFF&fontSize=70&fontAlignY=40&desc=Fullstack%20%7C%20Mobile%20%7C%20AI%20%7C%20Climate%20Tech&descAlignY=70&animation=fadeIn&section=header" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/elsonkjimmy">
+    <img src="https://komarev.com/ghpvc/?username=elsonkjimmy&label=Profile%20views&color=E94560&style=for-the-badge&logo=eye" alt="Profile views" />
+  </a>
+  <a href="https://github.com/elsonkjimmy?tab=followers">
+    <img src="https://img.shields.io/github/followers/elsonkjimmy?label=Followers&color=533483&style=for-the-badge&logo=github" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/elsonkjimmy?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-38-0F3460?style=for-the-badge&logo=github" alt="Repositories" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=markdown" alt="Status" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=E94560&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%26+Mobile+Builder;React+%7C+React+Native+%7C+Flutter+%7C+Python;AI+%26+Climate+Tech+Enthusiast;Building+products+that+matter" alt="Typing SVG" />
+</p>
+
+I'm a passionate software engineer who turns ambitious ideas into shipped products. I specialize in building fullstack applications, mobile experiences, and AI-powered solutions that create real impact.
+
+🎯 **Currently focused on:** Climate Smart Agriculture, Fashion Technology, and AI-powered solutions for emerging markets.
+
+---
+
+## 🌟 My Journey
+
 <div align="center">
 
-# EL SONK JIMMY
-
-*I build products where software, AI, and human impact meet.*
+| 🎓 Education | 💼 Experience | 🏆 Achievements |
+|-------------|---------------|----------------|
+| ICT4D Student | Software Engineer | Hackathon Winner 2026 |
+| Google IT Support | Prompt Engineer | 5+ Products Shipped |
+| Prompt Engineering | Mobile Developer | Open Source Contributor |
 
 </div>
 
 ---
 
-<div align="center">
-
-**Fullstack Developer & Mobile Builder**  
-React • React Native • Flutter • Python • AI & Climate Tech
-
-</div>
-
----
-
-## Personal Manifesto
-
-I believe that exceptional software is not just about code—it's about understanding human needs, solving real problems, and creating experiences that matter. My mission is to build products that improve lives through the thoughtful application of Artificial Intelligence, Cloud Computing, and Modern Software Engineering.
-
-Currently, I'm focused on the intersection of **Climate Smart Agriculture**, **Fashion Technology**, and **AI-powered solutions** that create tangible impact in emerging markets.
-
----
-
-## Current Focus
-
-**What I'm Building**
-- AI-powered air quality monitoring systems for 42 cities in Cameroon
-- Offline-first mobile applications using NFC technology
-- Fashion-tech platforms that bridge style and engineering
-
-**What I'm Learning**
-- Advanced machine learning for climate prediction
-- Cross-platform mobile development patterns
-- Cloud-native architecture and DevOps best practices
-
-**What I'm Exploring**
-- The intersection of fashion and technology
-- Sustainable tech solutions for agriculture
-- Open-source contributions to developer tools
-
----
-
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🌍 AirWatch Cameroun
-*AI-powered air quality monitoring platform*
+**AI-powered air quality monitoring platform**
 
-An intelligent system monitoring and predicting air quality across 42 cities in Cameroon. Combines React, FastAPI, and machine learning to deliver real-time environmental insights.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=airwatch-cameroun&theme=radical&hide_border=true&show_icons=true" alt="AirWatch Cameroun" />
+</p>
 
-**Impact**: Hackathon winner - IndabaX Cameroun 2026
+🔥 **Hackathon Winner - IndabaX Cameroun 2026**  
+🌍 **42 cities covered across Cameroon**  
+🤖 **XGBoost + Scikit-learn for predictions**
 
-[View Project](https://github.com/elsonkjimmy/airwatch-cameroun) • [Live Demo](https://airwatch-cameroun.vercel.app)
+[🔗 View Project](https://github.com/elsonkjimmy/airwatch-cameroun) • [🌐 Live Demo](https://airwatch-cameroun.vercel.app)
 
 ---
 
 ### 📱 CEPOJT NFC P2P
-*Offline-first mobile payment system*
+**Offline-first mobile payment system**
 
-Flutter-based application enabling peer-to-peer token transfers via NFC technology without central server dependency. Demonstrates 100% local architecture with SQLite storage.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=cepojt-nfc-p2p&theme=radical&hide_border=true&show_icons=true" alt="CEPOJT NFC P2P" />
+</p>
 
-**Innovation**: 4cm range secure transfers with double-spend protection
+💳 **100% offline architecture**  
+📡 **NFC peer-to-peer transfers**  
+🔒 **Double-spend protection**
 
-[View Project](https://github.com/elsonkjimmy/cepojt-nfc-p2p)
+[🔗 View Project](https://github.com/elsonkjimmy/cepojt-nfc-p2p)
 
 ---
 
 ### 👗 Dress-Up
-*Fashion technology platform*
+**Fashion technology platform**
 
-React Native mobile experience connecting style recommendations with modern engineering. Focuses on mobile-first UI/UX and personalized fashion suggestions.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=Dress-Up&theme=radical&hide_border=true&show_icons=true" alt="Dress-Up" />
+</p>
 
-**Focus**: Mobile-first design and style recommendation algorithms
+🎨 **Style recommendations**  
+📱 **Mobile-first UI/UX**  
+👗 **Fashion-tech innovation**
 
-[View Project](https://github.com/elsonkjimmy/Dress-Up)
+[🔗 View Project](https://github.com/elsonkjimmy/Dress-Up)
 
 ---
 
 ### 🌱 PruneVision
-*Agriculture-focused vision application*
+**Agriculture-focused vision application**
 
-React and TypeScript application for crop quality assessment using computer vision. Deployed web experience for agricultural technology innovation.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=PruneVision&theme=radical&hide_border=true&show_icons=true" alt="PruneVision" />
+</p>
 
-**Domain**: AgTech and computer vision applications
+🔬 **Computer vision for crops**  
+🌾 **AgTech innovation**  
+📊 **Quality assessment**
 
-[View Project](https://github.com/elsonkjimmy/PruneVision) • [Live Demo](https://prune-vision.vercel.app)
+[🔗 View Project](https://github.com/elsonkjimmy/PruneVision) • [🌐 Live Demo](https://prune-vision.vercel.app)
 
 ---
 
 ### 📊 EvalTrack
-*Evaluation tracking system*
+**Evaluation tracking system**
 
-Comprehensive evaluation tracking platform with custom forms, progress monitoring, and real-time analytics. Built for education, HR, and project management use cases.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=evaltrack&theme=radical&hide_border=true&show_icons=true" alt="EvalTrack" />
+</p>
 
-**Features**: Custom evaluation forms and progress tracking
+📝 **Custom evaluation forms**  
+📈 **Progress tracking**  
+🎯 **Real-time analytics**
 
-[View Project](https://github.com/elsonkjimmy/evaltrack)
-
----
-
-## Technical Stack
-
-### Languages
-<div>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-</div>
-
-### Frontend & Mobile
-<div>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-</div>
-
-### Backend & AI
-<div>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/XGBoost-00A86B?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost">
-</div>
-
-### Cloud & Infrastructure
-<div>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-</div>
+[🔗 View Project](https://github.com/elsonkjimmy/evaltrack)
 
 ---
 
-## GitHub Analytics
+### 🌤️ WeatherWise
+**Weather product prototype**
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=weatherwise&theme=radical&hide_border=true&show_icons=true" alt="WeatherWise" />
+</p>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=elsonkjimmy&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats">
+🌡️ **Weather forecasts**  
+📍 **Location-based data**  
+☁️ **Vercel deployment**
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsonkjimmy&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elsonkjimmy&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Activity">
-
-</div>
+[🔗 View Project](https://github.com/elsonkjimmy/weatherwise) • [🌐 Live Demo](https://weatherwise-w3oe.vercel.app)
 
 ---
 
-## Certifications
+## 🛠 Tech Stack
 
-**Prompt Engineering** • **Google IT Support Professional** • **ICT4D Student**
+### 💻 Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+</p>
 
-Continuously expanding expertise in AI, cloud computing, and modern software engineering practices.
+### 🎨 Frontend & Mobile
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+</p>
+
+### ⚙️ Backend & AI
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/XGBoost-00A86B?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+</p>
+
+### ☁️ Cloud & Infrastructure
+<p align="center">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</p>
 
 ---
 
-## Developer Philosophy
+## 📊 GitHub Analytics
 
-I approach software development as a craft—where attention to detail, user empathy, and technical excellence converge. I believe in building systems that are not only functional but also maintainable, scalable, and delightful to use. Every line of code should serve a purpose, every feature should solve a real problem, and every product should create meaningful value.
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=elsonkjimmy&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0D1117&title_color=E94560&text_color=FFFFFF&icon_color=E94560" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsonkjimmy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E94560&text_color=FFFFFF&icon_color=E94560&langs_count=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=elsonkjimmy&theme=radical&hide_border=true&background=0D1117&stroke=E94560&ring=E94560&fire=E94560&currStreakNum=FFFFFF&currStreakLabel=E94560&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elsonkjimmy&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0D1117&color=E94560&line=E94560&point=FFFFFF" alt="Contribution Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elsonkjimmy&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&title=E94560&text=FFFFFF&icon=E94560&background=0D1117" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elsonkjimmy/elsonkjimmy/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elsonkjimmy/elsonkjimmy/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/elsonkjimmy/elsonkjimmy/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
-## Vision
+## 🎯 Current Focus
 
-In the next decade, I aim to become one of the most respected software engineers and technology entrepreneurs, building products that democratize access to technology and create sustainable impact in emerging markets. I see myself leading teams that push the boundaries of what's possible with AI, cloud computing, and open-source software.
+### 🏗️ What I'm Building
+- 🌍 **Climate Tech Solutions** - AI-powered environmental monitoring
+- 📱 **Mobile Innovation** - Offline-first applications with NFC
+- 👗 **Fashion Technology** - Bridging style and engineering
+
+### 📚 What I'm Learning
+- 🤖 **Advanced ML** - Deep learning for climate prediction
+- ☁️ **Cloud Architecture** - Scalable infrastructure design
+- 🔧 **DevOps Best Practices** - CI/CD and automation
+
+### 🔍 What I'm Exploring
+- 🌱 **Sustainable Tech** - Eco-friendly software solutions
+- 🎨 **Creative Coding** - Interactive experiences
+- 🌐 **Web3 & Blockchain** - Decentralized applications
 
 ---
 
-## Connect
+## 🏆 Certifications
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-elsonkjimmy%40gmail.com-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elsonkjimmy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jimmy%20Mafo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jimmy-d-9638a1329)
-[![Portfolio](https://img.shields.io/badge/Portfolio-lunava.me-2563eb?style=for-the-badge&logo=web&logoColor=white)](https://lunava.me/elsonkjimmy/)
-[![GitHub](https://img.shields.io/badge/GitHub-elsonkjimmy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elsonkjimmy)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-E94560?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering">
+  <img src="https://img.shields.io/badge/Google_IT_Support-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google IT Support">
+  <img src="https://img.shields.io/badge/ICT4D_Student-0F3460?style=for-the-badge&logo=education&logoColor=white" alt="ICT4D Student">
+</p>
 
 ---
 
-<div align="center">
+## 🎯 Goals & Vision
 
-*"The best way to predict the future is to create it."*
+### 🎯 Short-term Goals
+- [ ] Ship 3 more production-ready products
+- [ ] Contribute to 10+ open-source projects
+- [ ] Master advanced ML techniques
+- [ ] Build a strong personal brand
 
-</div>
+### 🚀 Long-term Vision
+- Become a world-class software engineer and entrepreneur
+- Lead teams building impactful technology
+- Create products that democratize access to technology
+- Inspire the next generation of developers
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+  <a href="mailto:elsonkjimmy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-elsonkjimmy%40gmail.com-E94560?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/jimmy-d-9638a1329">
+    <img src="https://img.shields.io/badge/LinkedIn-Jimmy%20Mafo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/jimmy_sonk28624">
+    <img src="https://img.shields.io/badge/Twitter-@jimmy_sonk28624-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/jimm.ytresor">
+    <img src="https://img.shields.io/badge/Instagram-@jimm.ytresor-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://lunava.me/elsonkjimmy/">
+    <img src="https://img.shields.io/badge/Portfolio-lunava.me-533483?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/elsonkjimmy">
+    <img src="https://img.shields.io/badge/GitHub-elsonkjimmy-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient(custom):E94560,533483,0F3460&section=footer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=500&color=E94560&center=true&vCenter=true&width=500&lines=Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80" alt="Footer Typing" />
+</p>
+
+<p align="center">
+  <sub>Made with ❤️ by <strong>EL SONK JIMMY</strong></sub>
+</p>
