@@ -49,7 +49,7 @@ I'm a passionate software engineer who turns ambitious ideas into shipped produc
 **AI-powered air quality monitoring platform**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=airwatch-cameroun&theme=radical&hide_border=true&show_icons=true" alt="AirWatch Cameroun" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=elsonkjimmy&repo=airwatch-cameroun&theme=radical&hide_border=true&show_icons=true" alt="AirWatch Cameroun" />
 </p>
 
 🔥 **Hackathon Winner - IndabaX Cameroun 2026**  
@@ -64,7 +64,7 @@ I'm a passionate software engineer who turns ambitious ideas into shipped produc
 **Offline-first mobile payment system**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=cepojt-nfc-p2p&theme=radical&hide_border=true&show_icons=true" alt="CEPOJT NFC P2P" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=elsonkjimmy&repo=cepojt-nfc-p2p&theme=radical&hide_border=true&show_icons=true" alt="CEPOJT NFC P2P" />
 </p>
 
 💳 **100% offline architecture**  
@@ -79,7 +79,7 @@ I'm a passionate software engineer who turns ambitious ideas into shipped produc
 **Fashion technology platform**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=Dress-Up&theme=radical&hide_border=true&show_icons=true" alt="Dress-Up" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=elsonkjimmy&repo=Dress-Up&theme=radical&hide_border=true&show_icons=true" alt="Dress-Up" />
 </p>
 
 🎨 **Style recommendations**  
@@ -94,7 +94,7 @@ I'm a passionate software engineer who turns ambitious ideas into shipped produc
 **Agriculture-focused vision application**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=PruneVision&theme=radical&hide_border=true&show_icons=true" alt="PruneVision" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=elsonkjimmy&repo=PruneVision&theme=radical&hide_border=true&show_icons=true" alt="PruneVision" />
 </p>
 
 🔬 **Computer vision for crops**  
@@ -109,7 +109,7 @@ I'm a passionate software engineer who turns ambitious ideas into shipped produc
 **Evaluation tracking system**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=evaltrack&theme=radical&hide_border=true&show_icons=true" alt="EvalTrack" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=elsonkjimmy&repo=evaltrack&theme=radical&hide_border=true&show_icons=true" alt="EvalTrack" />
 </p>
 
 📝 **Custom evaluation forms**  
@@ -124,7 +124,7 @@ I'm a passionate software engineer who turns ambitious ideas into shipped produc
 **Weather product prototype**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=elsonkjimmy&repo=weatherwise&theme=radical&hide_border=true&show_icons=true" alt="WeatherWise" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=elsonkjimmy&repo=weatherwise&theme=radical&hide_border=true&show_icons=true" alt="WeatherWise" />
 </p>
 
 🌡️ **Weather forecasts**  
@@ -178,14 +178,15 @@ I'm a passionate software engineer who turns ambitious ideas into shipped produc
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=elsonkjimmy&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0D1117&title_color=E94560&text_color=FFFFFF&icon_color=E94560" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsonkjimmy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E94560&text_color=FFFFFF&icon_color=E94560&langs_count=10" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=elsonkjimmy&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&bg_color=0D1117&title_color=E94560&text_color=FFFFFF&icon_color=E94560" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=elsonkjimmy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E94560&text_color=FFFFFF&icon_color=E94560&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=elsonkjimmy&theme=radical&hide_border=true&background=0D1117&stroke=E94560&ring=E94560&fire=E94560&currStreakNum=FFFFFF&currStreakLabel=E94560&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </p>
 
+<!-- Temporarily hidden: third-party services currently down (HTTP 402 payment required)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=elsonkjimmy&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0D1117&color=E94560&line=E94560&point=FFFFFF" alt="Contribution Activity Graph" />
 </p>
@@ -193,6 +194,7 @@ I'm a passionate software engineer who turns ambitious ideas into shipped produc
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=elsonkjimmy&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=2&title=E94560&text=FFFFFF&icon=E94560&background=0D1117" alt="GitHub Trophies" />
 </p>
+-->
 
 <p align="center">
   <picture>
